@@ -14,4 +14,4 @@ It includes creating and managing a shop database, writing queries for data anal
 
 ## Technologies
 - SQL
-- MySQL / PostgreSQL (or specify your DB)
+- SQL Server Management
