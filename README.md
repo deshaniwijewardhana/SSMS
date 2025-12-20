@@ -38,4 +38,4 @@ Run the scripts in this exact order:
 15. select dimcustomer.sql
 16. select dimproduct.sql
 17. Manually insert data.sql
-18. 10.Check missing values.sql
+18. Check missing values.sql
